@@ -1,0 +1,15 @@
+C:\Users\wahid\Desktop\Insertion Sort\Inserstion Sort\Inserstion Sort\bin\Debug\net6.0\Inserstion Sort.exe
+C:\Users\wahid\Desktop\Insertion Sort\Inserstion Sort\Inserstion Sort\bin\Debug\net6.0\Inserstion Sort.deps.json
+C:\Users\wahid\Desktop\Insertion Sort\Inserstion Sort\Inserstion Sort\bin\Debug\net6.0\Inserstion Sort.runtimeconfig.json
+C:\Users\wahid\Desktop\Insertion Sort\Inserstion Sort\Inserstion Sort\bin\Debug\net6.0\Inserstion Sort.dll
+C:\Users\wahid\Desktop\Insertion Sort\Inserstion Sort\Inserstion Sort\bin\Debug\net6.0\Inserstion Sort.pdb
+C:\Users\wahid\Desktop\Insertion Sort\Inserstion Sort\Inserstion Sort\obj\Debug\net6.0\Inserstion Sort.csproj.AssemblyReference.cache
+C:\Users\wahid\Desktop\Insertion Sort\Inserstion Sort\Inserstion Sort\obj\Debug\net6.0\Inserstion Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wahid\Desktop\Insertion Sort\Inserstion Sort\Inserstion Sort\obj\Debug\net6.0\Inserstion Sort.AssemblyInfoInputs.cache
+C:\Users\wahid\Desktop\Insertion Sort\Inserstion Sort\Inserstion Sort\obj\Debug\net6.0\Inserstion Sort.AssemblyInfo.cs
+C:\Users\wahid\Desktop\Insertion Sort\Inserstion Sort\Inserstion Sort\obj\Debug\net6.0\Inserstion Sort.csproj.CoreCompileInputs.cache
+C:\Users\wahid\Desktop\Insertion Sort\Inserstion Sort\Inserstion Sort\obj\Debug\net6.0\Inserstion Sort.dll
+C:\Users\wahid\Desktop\Insertion Sort\Inserstion Sort\Inserstion Sort\obj\Debug\net6.0\refint\Inserstion Sort.dll
+C:\Users\wahid\Desktop\Insertion Sort\Inserstion Sort\Inserstion Sort\obj\Debug\net6.0\Inserstion Sort.pdb
+C:\Users\wahid\Desktop\Insertion Sort\Inserstion Sort\Inserstion Sort\obj\Debug\net6.0\Inserstion Sort.genruntimeconfig.cache
+C:\Users\wahid\Desktop\Insertion Sort\Inserstion Sort\Inserstion Sort\obj\Debug\net6.0\ref\Inserstion Sort.dll
